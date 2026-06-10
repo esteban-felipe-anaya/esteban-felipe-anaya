@@ -1,31 +1,31 @@
 # Hi there, I'm Esteban! 👋
 
-I'm a passionate full-stack and AI developer with a knack for building efficient and scalable applications. My goal is to leverage technology to solve real-world problems and create impactful solutions. 
+I'm a passionate web game developer with a focus on creating immersive and engaging experiences. My journey in the world of game development has led me to specialize in utilizing powerful frameworks and libraries to bring imaginative concepts to life.
 
-## Current Focus
+## 🌟 Current Focus
+Currently, I'm diving deep into the realms of 3D game development and interactive web applications. I enjoy pushing the boundaries of what's possible in browser-based gaming and exploring innovative gameplay mechanics.
 
-Currently, I'm diving deep into developing AI-driven applications and enhancing user experiences through innovative full-stack solutions. I'm particularly interested in machine learning, data analysis, and cloud computing.
+## ⚙️ Tech Stack
+- **Game Development Frameworks:**  
+  - Phaser
+  - Babylon.js
+  - Three.js
+  - PlayCanvas
 
-## Tech Stack
+- **Languages:**  
+  - JavaScript
+  - HTML5
+  - CSS3
 
-- **Frontend:** React, Vue.js, Angular, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express, Python, Django, Ruby on Rails
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **AI/ML:** TensorFlow, PyTorch, Scikit-Learn
-- **DevOps:** Docker, Kubernetes, AWS, Azure
-- **Other:** Git, RESTful APIs, GraphQL, Agile Methodologies
+- **Tools & Technologies:**  
+  - Git
+  - WebGL
+  - Node.js
 
-## Selected Project Areas
+## 🔍 Selected Project Areas
+- Multiplayer online games
+- 3D visualizations and simulations
+- Educational and interactive experiences
+- Game mechanics experimentation and prototyping
 
-- **Web Applications:** Building responsive and user-friendly web applications that provide seamless experiences.
-- **Artificial Intelligence:** Developing and deploying machine learning models for data-driven decision making.
-- **Data Visualization:** Creating interactive dashboards and visualizations to interpret complex data sets.
-- **Open Source Contributions:** Actively contributing to open-source projects to foster collaboration and community growth.
-
-## Contact & Social
-
-Feel free to connect with me on:
-
-- **LinkedIn:** [linkedin.com/in/esteban](https://www.linkedin.com/in/esteban)
-
-Looking forward to collaborating and exploring new opportunities together! 🚀
+Thank you for visiting my profile! Let's create something amazing together!
